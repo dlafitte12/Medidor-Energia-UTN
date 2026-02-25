@@ -3,9 +3,9 @@
 #define CONFIG_H
 
 // Usamos #define para evitar errores de múltiple definición en el enlazado (linker)
-#define WIFI_SSID "Fibertel WiFi388 2.4GHz"
-#define WIFI_PASS "0041405516"
-#define MQTT_BROKER "192.168.0.23"
+#define WIFI_SSID "Fourtech"
+#define WIFI_PASS "123456789"
+#define MQTT_BROKER "10.241.179.96"
 #define DEVICE_ID "ESP32_Medidor_de_Energia_UTN"
 
 #endif
